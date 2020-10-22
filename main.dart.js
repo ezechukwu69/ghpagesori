@@ -54957,8 +54957,7 @@ $1:function(a){var s=$.a5q().style
 s.cursor="default"},
 $S:359}
 F.A9.prototype={
-K:function(a,b){var s="/homePage"
-return new Q.qg(s,!1,H.d([F.a3y("/",new F.Qu()),F.a3y(s,new F.Qv()),F.a3y("/uploadpage",new F.Qw())],t.tv),null)}}
+K:function(a,b){return new Q.qg("/",!1,H.d([F.a3y("/",new F.Qu()),F.a3y("/homePage",new F.Qv()),F.a3y("/uploadpage",new F.Qw())],t.tv),null)}}
 F.Qu.prototype={
 $0:function(){return new R.l5(null)},
 $C:"$0",
